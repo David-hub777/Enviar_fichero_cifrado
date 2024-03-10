@@ -1,0 +1,19 @@
+para ejecutar el programa, sigue estos pasos:
+1. Abre una terminal o línea de comandos.
+2. Navega hasta la ubicación del archivo `envio.py` usando el comando `cd`. Por ejemplo, si el archivo está en el directorio `/c:/Users/David/Desktop/DAVID/00.-FP/05.-PSP/Enviar_fichero_cifrado/`, puedes usar el siguiente comando:
+    ```
+    cd /c:/Users/David/Desktop/DAVID/00.-FP/05.-PSP/Enviar_fichero_cifrado/
+    ```
+3. Ejecuta el archivo `envio.py` usando el comando `python`. Por ejemplo:
+    ```
+    python envio.py
+    ```
+4. Abre otra terminal o línea de comandos.
+5. Navega hasta la ubicación del archivo `recibo.py` usando el comando `cd`. Por ejemplo, si el archivo está en el mismo directorio que `envio.py`, puedes usar el siguiente comando:
+    ```
+    cd /c:/Users/David/Desktop/DAVID/00.-FP/05.-PSP/Enviar_fichero_cifrado/
+    ```
+6. Ejecuta el archivo `recibo.py` usando el comando `python`. Por ejemplo:
+    ```
+    python recibo.py
+    ```
